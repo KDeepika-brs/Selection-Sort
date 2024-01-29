@@ -6,4 +6,4 @@
 
 ##### Selection Sort has a time complexity of O(n^2), where n is the number of elements in the array. It is an in-place sorting algorithm, meaning that it does not require additional memory to sort the array. However, it is generally not the most efficient sorting algorithm for large datasets, especially when compared to more advanced algorithms like Merge Sort or Quick Sort. Nevertheless, it is a simple algorithm and easy to implement.
 
-#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Hamming-algo/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Selection-Sort/).
